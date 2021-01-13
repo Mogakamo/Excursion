@@ -1,6 +1,9 @@
 # Excursion
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![GitHub issues](https://img.shields.io/github/issues/Mogakamo/Excursion?style=for-the-badge)](https://github.com/Mogakamo/Excursion/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Mogakamo/Excursion?style=for-the-badge)](https://github.com/Mogakamo/Excursion/network)
+[![GitHub stars](https://img.shields.io/github/stars/Mogakamo/Excursion)](https://github.com/Mogakamo/Excursion/stargazers)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Excursion project - Codecademy
 
